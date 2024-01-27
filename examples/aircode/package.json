@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aircode": "0.7.0",
+    "cos-nodejs-sdk-v5": "2.12.6",
+    "uuid": "9.0.1"
+  }
+}
