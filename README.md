@@ -5,10 +5,10 @@ D2C 图片上传示例，nodejs 实现。[English Version](./README-en.md)
 # 示例列表
 
 - ✅ 云函数，只需要关心核心图片上传逻辑，无须绑定域名，每个函数是一个接口
-  - 【入门使用】 [upload.js](./examples/aircode/upload.js): 使用 AirCode 文件存储（免费额度 2GB）
-  - 【👍🏻推荐使用】 [uploadCOS.js](./examples/aircode/uploadCOS.js): 使用Tencent 对象存储 SDK，需绑定 COS AccessID、AccessKey
+  - 【~~入门使用~~】 [upload.js](./examples/aircode/upload.js): 使用 AirCode 文件存储（免费额度 2GB）
+  - 【~~👍🏻推荐使用~~】 [uploadCOS.js](./examples/aircode/uploadCOS.js): 使用Tencent 对象存储 SDK，需绑定 COS AccessID、AccessKey
 
-AirCode 支持一键复制项目，一键复制示例（需要登录）
+~~AirCode~~【已停止维护】 支持一键复制项目，一键复制示例（需要登录）
 
 [![copy-aircode](copy-aircode.png)](https://aircode.io/dashboard?owner=shijiatongxue&repo=d2c-image-upload-examples&path=examples%2Faircode&appname=d2c-image-bed-aircode-example)
 
